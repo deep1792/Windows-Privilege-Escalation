@@ -127,7 +127,7 @@ Escalating via linux machine priv escalation (WSL - Windows Subsystem for linux)
 
 On Kali Machine
 Try first login through smbclient -- smbclient \\\\192.168.94.132\\
-Then with psexec.py deepa:'y17@'@Target-ip
+Then with psexec.py deepa:'pas'@Target-ip
 
 smbclient\\\target-ip\\<share> -U <username> and will ask for password
 upload a php then if IIS is running --
